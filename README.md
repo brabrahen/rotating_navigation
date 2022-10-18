@@ -1,4 +1,4 @@
-# rotating_navigation
+# Roatating navigation
 Part of a week of projects
 
 -------------
